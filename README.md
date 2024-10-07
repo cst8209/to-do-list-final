@@ -1,2 +1,4 @@
-# to-do-list
-This repository contains the starter files for the To-Do List project
+# To-Do List
+
+## Objective
+Using JavaScript, create a list of items and display it on the page. 
